@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Dönel Kaplama Sistemi</string>
+    <string name="list_name">Bluetooth Device List</string>
+    <string name="nem_0">Nem: 0</string>
+    <string name="s_cakl_k_0">Sıcaklık: 0</string>
+    <string name="cihaz_durumu">Cihaz Durumu</string>
+    <string name="rpm_0">RPM: 0</string>
+    <string name="ba_lat">Başlat</string>
+    <string name="durdur">Durdur</string>
+    <string name="h_z_kaydet">Hızı Kaydet</string>
+    <string name="h_z_0_100">Hız(%0-100)</string>
+    <string name="al_ma_s_resi_sn">Çalışma Süresi(sn)</string>
+    <string name="zamanlay_c">Zamanlayıcı</string>
+    <string name="macro_ekle">Macro Ekle</string>
+    <string name="komut_penceresi">Komut Penceresi</string>
+    <string name="spin_coater_ncihaz_na_ba_lan">Dönel Kaplama \nCihazına Bağlan</string>
+    <string name="kay_tl_cihaz_nsil">Kayıtlı Cihazı\nSil</string>
+    <string name="kay_tl_cihaz_yok">Kayıtlı Cihaz Yok</string>
+    <string name="bluetooth_na_kapat">Bluetooth\nAç/Kapat</string>
+    <string name="spin_cihazlar_nyenile">Spin Cihazları\nYenile</string>
+    <string name="spin_coater_cihaz_n_z_kaydediniz">Dönel Kaplama Cihazınızı Kaydediniz!</string>
+    <string name="komut_giriniz">Komut Giriniz!</string>
+    <string name="ekle">Ekle</string>
+    <string name="ptal">İptal</string>
+    <string name="h_z_0">Hız(%): 0</string>
+    <string name="humidity_temp">Nem Sıcaklık On/Off</string>
+    <string name="status">Durum: </string>
+    <string name="temp">Sıcaklık: </string>
+    <string name="hum">Nem: %</string>
+    <string name="rpm">RPM: </string>
+    <string name="title_spincoaterinstant">Instant</string>
+</resources>

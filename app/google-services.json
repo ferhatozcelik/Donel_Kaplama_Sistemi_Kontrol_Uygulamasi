@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "250160045015",
+    "project_id": "spin-coater-61f66",
+    "storage_bucket": "spin-coater-61f66.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:250160045015:android:ebed68e723c6ebb73b4992",
+        "android_client_info": {
+          "package_name": "com.ferhatozcelik.spincoater"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "250160045015-f204lgj2o488t7f6og7v9h0s6lf1d7vs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOGvvR5jisp0Jyyb-g3uw126RqvJTdLWY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "250160045015-f204lgj2o488t7f6og7v9h0s6lf1d7vs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

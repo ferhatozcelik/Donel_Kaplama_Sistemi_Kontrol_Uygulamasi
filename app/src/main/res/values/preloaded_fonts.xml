@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/architects_daughter</item>
+        <item>@font/bungee_inline</item>
+        <item>@font/bungee_shade</item>
+        <item>@font/faster_one</item>
+        <item>@font/marvel</item>
+        <item>@font/monoton</item>
+        <item>@font/open_sans_bold</item>
+        <item>@font/open_sans_light</item>
+        <item>@font/paytone_one</item>
+        <item>@font/rock_salt</item>
+        <item>@font/trade_winds</item>
+        <item>@font/wallpoet</item>
+        <item>@font/zeyada</item>
+    </array>
+</resources>

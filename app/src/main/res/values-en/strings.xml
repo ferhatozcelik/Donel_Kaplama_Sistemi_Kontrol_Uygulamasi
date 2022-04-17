@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Spin Coater</string>
+    <string name="list_name">Bluetooth Device List</string>
+    <string name="nem_0">Moisture: 0</string>
+    <string name="s_cakl_k_0">Temperature: 0</string>
+    <string name="cihaz_durumu">Device Status</string>
+    <string name="rpm_0">RPM: 0</string>
+    <string name="ba_lat">Start</string>
+    <string name="durdur">Stop</string>
+    <string name="h_z_kaydet">Save Speed</string>
+    <string name="h_z_0_100">Speed(%0-100)</string>
+    <string name="al_ma_s_resi_sn">Operation time(sn)</string>
+    <string name="zamanlay_c">Timer</string>
+    <string name="macro_ekle">Macro Ekle</string>
+    <string name="komut_penceresi">Terminal</string>
+    <string name="spin_coater_ncihaz_na_ba_lan">Connect to Spin Coater Device</string>
+    <string name="kay_tl_cihaz_nsil">Delete Registered\nDevice</string>
+    <string name="kay_tl_cihaz_yok">No Registered Devices</string>
+    <string name="bluetooth_na_kapat">Bluetooth<br/>On/Off</string>
+    <string name="spin_cihazlar_nyenile">Spin Devices<br/>Refresh</string>
+    <string name="spin_coater_cihaz_n_z_kaydediniz">Register Your Spin Coater!</string>
+    <string name="komut_giriniz">Komut Giriniz!</string>
+    <string name="ekle">Add</string>
+    <string name="ptal">Cancel</string>
+    <string name="h_z_0">Speed(%): 0</string>
+    <string name="humidity_temp">Humidity Temp On/Off</string>
+    <string name="status">Status: </string>
+    <string name="temp">Temp: </string>
+    <string name="hum">Hum: %</string>
+    <string name="rpm">RPM: </string>
+</resources>
