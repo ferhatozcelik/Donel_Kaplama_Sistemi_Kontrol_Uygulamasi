@@ -12,12 +12,6 @@ Bu proje kapsamında, döndürerek kaplama yöntemi ile ince film kaplamak için
 
 ![Uygulama Ekran Görüntüsü](https://play-lh.googleusercontent.com/8oQG68I70vqRzQPY5jj0yQ2cC92RzyLweJBGO_lpWtO3Hhrcc2gkt9ixkI1Tdf1uVQ=w720-h310-rw) 
 
-  
-## Ya
-
-[Google Play](https://play.google.com/store/apps/details?id=com.ferhatozcelik.spincoater)
-
-  
 ## Dağıtım
 
 Spin Coater | Dönel Kaplama Sistemi Mobil Uygulamsını İndir
